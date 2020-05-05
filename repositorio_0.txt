@@ -1,4 +1,2 @@
 esto es un archivo .txt creado desde el terminal.
 lo estoy modificando desde la rama andres para fusionarlo con master.
-
-
