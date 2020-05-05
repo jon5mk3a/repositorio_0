@@ -1,0 +1,2 @@
+esto es un archivo .txt creado desde el terminal.
+
